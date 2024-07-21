@@ -1,0 +1,7 @@
+tkintertable
+pickle5
+nltk
+regex
+beautifulsoup4
+scikit-learn
+gensim
